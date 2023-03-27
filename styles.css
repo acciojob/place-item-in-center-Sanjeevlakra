@@ -6,6 +6,7 @@
 	flex-wrap:wrap;
 	background-color:dodgerblue;
 	justify-content:center;
+	align-items:center;
 }
 
 .holder >item-1 {
